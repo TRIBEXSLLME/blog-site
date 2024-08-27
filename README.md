@@ -1,5 +1,7 @@
 # React + Vite
 
+the live deployment of the site is at https://blog-site-orcin-omega.vercel.app/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
